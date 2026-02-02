@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Latar Belakang: Biru PUPR (Lingkaran Profesional) -->
+  <circle cx="256" cy="256" r="256" fill="#004B87"/>
+  
+  <!-- Ikon Helm Proyek: Kuning Safety -->
+  <g transform="translate(56, 100) scale(0.8)">
+    <!-- Bagian Atas Helm (Kubah) -->
+    <path fill="#FDB813" d="M480,224H32c-17.67,0-32,14.33-32,32v32c0,17.67,14.33,32,32,32h448c17.67,0,32-14.33,32-32v-32C512,238.33,497.67,224,480,224z"/>
+    <path fill="#FDB813" d="M256,32C150.3,32,64,117.8,64,224h384C448,117.8,361.7,32,256,32z"/>
+    
+    <!-- Garis Penguat/Rusuk Helm (Detail Teknis) -->
+    <path fill="#e6a700" d="M256,32c-15,0-28,100-28,192h56C284,132,271,32,256,32z"/>
+    
+    <!-- Lampu/Senter Kepala (Opsional untuk kesan 'Kerja Keras') -->
+    <rect x="226" y="180" width="60" height="20" rx="5" fill="#333" opacity="0.2"/>
+  </g>
+</svg>
